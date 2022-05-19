@@ -9,9 +9,15 @@ Three Modules:
 
 
 #.py -------->> .exe
+
 #install pyinstaller
+
 pip install pyinstall
 
+
+
 #command to create.....exe
+
 $ pyinstaller --onefile -w 'file_name.py'
+
 eg... $ pyinstaller --onefile -w 'snake.py'
